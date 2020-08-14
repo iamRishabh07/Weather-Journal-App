@@ -19,7 +19,7 @@ To get the project up and running I followed these steps:
 
 
 ### Result 
-![About Page](https://github.com/iamRishabh07/Project-Previews/blob/master/Weather-Journal-App-About.png)
+![About Page](https://github.com/iamRishabh07/blob/master/Weather-Journal-App-About.png)
 
 
 
