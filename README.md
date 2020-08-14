@@ -17,12 +17,6 @@ To get the project up and running I followed these steps:
 1. Created async functions to fetch weather data and store it on my local server. 
 1. Set up a function that updated UI dynamically.
 
-
-### Result 
-![About Page](https://github.com/iamRishabh07/blob/master/Weather-Journal-App-About.png)
-
-
-
 ## Authors
 
 * Rishabh Srivastava
